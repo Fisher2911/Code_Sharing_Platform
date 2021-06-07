@@ -1,0 +1,28 @@
+.background {
+
+background-color: rgb(9, 214, 153)
+	
+}
+
+.rounded {
+	
+  background-color: POWDERBLUE;
+  border-radius: 25px;
+  padding: 20px;
+  /*width: 200px; */
+  text-align: center;
+  /*height: 150px; */
+	
+}
+
+.buttonclicks {
+	
+	position: fixed;
+	background-color: RED;
+	border-radius: 10px;
+	padding: 10px;
+	text-align: center;
+	width: 200px;
+	height: 50px;
+	
+}
